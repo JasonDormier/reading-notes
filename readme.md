@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Read Me"
+title: "Title of whatever Example I present"
 permalink: /readme
 ---
 Jason Dormier
