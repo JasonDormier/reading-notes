@@ -2,6 +2,8 @@
 
 ### **Table of Contents for 15 Daily Reading Assignments**
 
+**First post pre-work hyperlink here**
+
 |Day1|Day2|Day3|Day4|Day5|
 |-----|-----|---|---|---|
 |item1|item1|item1|item1|item1|
