@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Read Me"
-permalink: /readme
+permalink: /readme/
 ---
 
 # Reading-Notes
