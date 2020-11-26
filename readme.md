@@ -1,4 +1,4 @@
-layout: Read Me
+layout: page
 title: "Read Me"
 permalink: /readme/
 
