@@ -1,6 +1,6 @@
 ###### Notes and insights from reading and course work for 201 software development course work.
 
-### **Table of Contents **
+### **Table of Contents**
 
 1. First reading post [hyperlink](jasondormier.github.io/reading-notes) here.
 1. Second reading post [hyperlink](jasondormier.github.io/reading-notes) here
