@@ -1,7 +1,8 @@
-layout: Read Me
-title: "Read Me"
-permalink: /readme/
-
-# Reading-Notes
-Reading Notes for Code 201
-
+---
+layout: post
+title: "Title of whatever Example I present"
+permalink: /readme
+---
+Jason Dormier
+# Title of whatever I am doing
+This is where whatever I am doing with go.
