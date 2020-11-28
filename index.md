@@ -2,7 +2,7 @@
 
 ### **Table of Contents**
 
-1. First reading post [hyperlink](jasondormier.github.io/reading-notes) here.
+1. First reading post [hyperlink](jasondormier.github.io/reading-notes/class-01) here.
 1. Second reading post [hyperlink](jasondormier.github.io/reading-notes) here
 
 
