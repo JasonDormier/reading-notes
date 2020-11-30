@@ -5,9 +5,9 @@ permalink: /class-01
 ---
 Jason Dormier
 
-Objects, elements, and properties are the things that make up a any webpage. We can interact with all of these things that comprise a webpage using Javascript code. When we understand how the elements and properites of the each page are laid out, we begin to manipulate the elements, properites, data, and text in anyway we see fit.
+Objects, elements, and properties are the things that make up any webpage. We can interact with all of these things that comprise a webpage using Javascript code. When we understand how the elements and properties of each page are laid out, we begin to manipulate the elements, properties, data, and text in any way we see fit.
 
-For the example below the `<!DOCTYPE html>` is the declaration of the DocumentType Object. Everything inside this object can be maniuplated in various ways using events, methods, and functions with javascript. 
+For the example below the `<!DOCTYPE html>` is the declaration of the DocumentType Object. Everything inside this object can be manipulated in various ways using events, methods, and functions with javascript.
 
 ```HTML
 <!DOCTYPE html> <!-- This represents out page -->
