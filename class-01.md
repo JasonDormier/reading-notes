@@ -13,5 +13,5 @@ How:
 Using maps, flow charts, wireframes, and data collected in the early phases should drive the design and interactions of the site or app. Using an app like draw.io makes it super easy to create these types of plans.
 
 What:
-The result should be a more cohesive team and a clear picture moving forward. Often times the starting a project and establishing the direction is the hardest part of any project.
+The result should be a more cohesive team and a clear picture moving forward. Often times the start of a project and establishing direction is the hardest part of a project.
 
