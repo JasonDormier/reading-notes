@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Object, Elements, and Properties for Javascript manipulation "
+title: "Objects, Elements, and Properties of HTML for Javascript manipulation "
 permalink: /class-01
 ---
 Jason Dormier
