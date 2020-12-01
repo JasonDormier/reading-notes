@@ -3,6 +3,7 @@ layout: post
 title: "Reading 2 Javascript Notes"
 permalink: /class-02
 ---
+Jason D
 
 * An array stores a list of values. 
 
