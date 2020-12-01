@@ -3,6 +3,6 @@
 ### **Table of Contents**
 
 1. [Objects, Elements, and Properties of HTML for Javascript manipulation](https://jasondormier.github.io/reading-notes/class-01)
-1. Second reading post [hyperlink](jasondormier.github.io/reading-notes) here
+1. [Reading 2 Javascript Notes](https://jasondormier.github.io/reading-notes/class-02)
 
 
