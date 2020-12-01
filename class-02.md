@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 2 Javascript Notes"
+title: "Reading 2 Javascript Notes"
 permalink: /class-02
 ---
 
