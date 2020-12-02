@@ -4,5 +4,6 @@
 
 1. [Objects, Elements, and Properties of HTML for Javascript manipulation](https://jasondormier.github.io/reading-notes/class-01)
 1. [Reading 2 Javascript Notes](https://jasondormier.github.io/reading-notes/class-02)
+1. [Reading 3 Javascript Notes](https://jasondormier.github.io/reading-notes/class-03)
 
 
