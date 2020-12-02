@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arrays and Loops"
-permalink: /class-02
+permalink: /class-03
 ---
 Jason D
 
