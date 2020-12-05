@@ -6,5 +6,6 @@
 1. [Reading 2 Javascript Notes](https://jasondormier.github.io/reading-notes/class-02)
 1. [Loops and Arrrays](https://jasondormier.github.io/reading-notes/class-03)
 1. [Lists and Functions](https://jasondormier.github.io/reading-notes/class-04)
+1. [Img, Color, and Text](https://jasondormier.github.io/reading-notes/class-05)
 
 
