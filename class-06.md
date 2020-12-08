@@ -5,7 +5,7 @@ permalink: /class-06
 ---
 Jason D
 
-###Object Literals
+### Object Literals
 
 * Object Literal example:
 ```javascript
