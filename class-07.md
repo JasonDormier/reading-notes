@@ -7,7 +7,7 @@ Jason D
 
 ### Tables
 
-* Shall we start off with some <table> html <tr> for table rows and <td> for table data and <th> for a table header.
+* Shall we start off with some `<table>` html `<tr>` for table rows and `<td>` for table data and `<th>` for a table header.
 
 * Example Table HTML
 
