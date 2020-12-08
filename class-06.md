@@ -21,5 +21,4 @@ const = someOject{
 
 * Document Object Model.
 
-## Alternatively...
 ![](`img/DOM.jpg`)
