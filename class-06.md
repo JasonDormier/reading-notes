@@ -21,4 +21,4 @@ const = someOject{
 
 * Document Object Model.
 
-![](`img/DOM.jpg`)
+![image](img/DOM.jpg)
