@@ -22,4 +22,4 @@ const = someOject{
 * Document Object Model.
 
 ## Alternatively...
-![](`https://drive.google.com/file/d/162xeaXH7NXlwx-pxSNayGevTUJk5ShIt/view?usp=sharing`)
+![](`img/DOM.jpg`)
