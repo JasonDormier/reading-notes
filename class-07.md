@@ -28,7 +28,7 @@ Jason D
 
 * Functions can take parameters and may return a value.
 
-* An object is a series of waribles and functions that represent something in the real world.
+* An object is a series of varibles and functions that represent something in the real world.
 
 * Objects consist of varibles known as propertoes of the object and functions are known as methods.
 
