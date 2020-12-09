@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tables, Functions, Methods, and Objects"
-permalink: /class-06
+permalink: /class-07
 ---
 Jason D
 

@@ -9,5 +9,6 @@
 1. [Img, Color, and Text](https://jasondormier.github.io/reading-notes/class-05)
 1. [Object Literal and DOM Tree](https://jasondormier.github.io/reading-notes/class-06)
 1. [Tables, Functions, Methods, and Objects](https://jasondormier.github.io/reading-notes/class-07)
+1. [Layouts](https://jasondormier.github.io/reading-notes/class-08)
 
 
