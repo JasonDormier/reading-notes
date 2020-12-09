@@ -5,7 +5,7 @@ permalink: /class-08
 ---
 Jason D
 
-###Layouts
+### Layouts
 
 * `<postion:aboslute>` The box will be taken out of normal flow, you can specify where you would like it to be in relation to the containing element.
 
