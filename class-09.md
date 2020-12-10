@@ -46,10 +46,10 @@ blur / focusout  | Element loses focus
 
 Event| Description
 -----|-------------
-input | Value in select box, checkbox, or radio button changes
+input | Value inserted in select box, checkbox, or radio button
 change | Value in select box, checkbox, or radio button changes 
-submit | User submits a form 
-reset | User clicks on a form's res~t button
+submit | submitting a form 
+reset | clicking on a form's reset button
 cut | cutting content from a form field 
 copy | copying content from a form field
 paste | pasting content into a form field 
