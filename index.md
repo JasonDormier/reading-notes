@@ -10,5 +10,6 @@
 1. [Object Literal and DOM Tree](https://jasondormier.github.io/reading-notes/class-06)
 1. [Tables, Functions, Methods, and Objects](https://jasondormier.github.io/reading-notes/class-07)
 1. [Layouts](https://jasondormier.github.io/reading-notes/class-08)
+1. [Events](https://jasondormier.github.io/reading-notes/class-09)
 
 
