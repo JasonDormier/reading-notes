@@ -11,5 +11,6 @@
 1. [Tables, Functions, Methods, and Objects](https://jasondormier.github.io/reading-notes/class-07)
 1. [Layouts](https://jasondormier.github.io/reading-notes/class-08)
 1. [Events](https://jasondormier.github.io/reading-notes/class-09)
+1. [Debugging](https://jasondormier.github.io/reading-notes/class-10)
 
 
