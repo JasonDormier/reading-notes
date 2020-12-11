@@ -14,7 +14,7 @@ Jason D
 
 * console methods - `<console.info>`, `<console.error>`, `<console.warn>`, `<console.table>`, `<console.assert>`
 
-* Group messaages
+* Group messages
 
 * breakpoints- so you can step through your code one step at a time
 
