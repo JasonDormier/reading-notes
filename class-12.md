@@ -35,15 +35,15 @@ Jason D
 
 * `<beginPath()>` Creates a new path
 
-* `<closePath()>` Adds a straight line to the path, from start to sub path
+* `<closePath()>` Adds a straight line to the path, from start to sub-path
 
-* `<stroke()>` Draws the shaoe by outline
+* `<stroke()>` Draws the shape by outline
 
 * `<fill()>` Dars a solid shape
 
 ### Chart.js
 
-* Chart js just needs a canvas setup on the page to get going
+* Chart js just needs a canvas set up on the page to get going
 
 * Example of a line graph with chart.js
 
