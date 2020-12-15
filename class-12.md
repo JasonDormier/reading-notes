@@ -7,7 +7,7 @@ Jason D
 
 ### Canvas
 
-* The <canvas> element can be styled just like any normal image (margin, border, background…).
+* The `<canvas>` element can be styled just like any normal image (margin, border, background…).
 
 * An example js script drawing to squares
 
