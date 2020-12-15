@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Debugging"
+title: "Images"
 permalink: /class-10
 ---
 Jason D
