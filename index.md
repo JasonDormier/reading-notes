@@ -15,4 +15,4 @@
 1. [Images](https://jasondormier.github.io/reading-notes/class-11)
 1. [Charts, Canvas, and Shapes](https://jasondormier.github.io/reading-notes/class-12)
 1. [Local Storage](https://jasondormier.github.io/reading-notes/class-13)
-1. [Local Storage](https://jasondormier.github.io/reading-notes/class-13)
+1. [CSS Animations](https://jasondormier.github.io/reading-notes/class-14)
