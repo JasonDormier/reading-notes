@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Google Learned about Teams"
-permalink: /class-14b.md
+permalink: /class-14b
 ---
 Jason D
 
