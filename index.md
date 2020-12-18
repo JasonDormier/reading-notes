@@ -16,3 +16,4 @@
 1. [Charts, Canvas, and Shapes](https://jasondormier.github.io/reading-notes/class-12)
 1. [Local Storage](https://jasondormier.github.io/reading-notes/class-13)
 1. [CSS Animations](https://jasondormier.github.io/reading-notes/class-14)
+1. [What Google Learned about Teams](https://jasondormier.github.io/reading-notes/class-14b)
