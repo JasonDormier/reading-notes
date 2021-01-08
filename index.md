@@ -1,6 +1,7 @@
 ###### Notes and insights from reading and course work for 201 software development course work.
 
 ### **Table of Contents**
+### Javascript 201
 
 1. [Objects, Elements, and Properties of HTML for Javascript manipulation](https://jasondormier.github.io/reading-notes/class-01)
 1. [Reading 2 Javascript Notes](https://jasondormier.github.io/reading-notes/class-02)
@@ -17,3 +18,5 @@
 1. [Local Storage](https://jasondormier.github.io/reading-notes/class-13)
 1. [CSS Animations](https://jasondormier.github.io/reading-notes/class-14)
 1. [What Google Learned about Teams](https://jasondormier.github.io/reading-notes/class-14b)
+
+### Javascript 301 - Intermediate Software Development
