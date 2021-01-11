@@ -20,3 +20,4 @@
 1. [What Google Learned about Teams](https://jasondormier.github.io/reading-notes/class-14b)
 
 ### Javascript 301 - Intermediate Software Development
+1. [Floats and Flexibility](https://jasondormier.github.io/reading-notes/read-01)
