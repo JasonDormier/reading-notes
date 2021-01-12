@@ -21,3 +21,4 @@
 
 ### Javascript 301 - Intermediate Software Development
 1. [Floats and Flexibility](https://jasondormier.github.io/reading-notes/read-01)
+1. [jQuery and Pair Programming](https://jasondormier.github.io/reading-notes/read-02)
