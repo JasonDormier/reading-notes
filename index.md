@@ -24,3 +24,4 @@
 1. [jQuery and Pair Programming](https://jasondormier.github.io/reading-notes/read-02)
 1. [MUSTACHE and FLEXBOX](https://jasondormier.github.io/reading-notes/read-03)
 1. [Responsive Web Design and Regular Expressions](https://jasondormier.github.io/reading-notes/read-04)
+1. [HEROKU](https://jasondormier.github.io/reading-notes/read-05)
