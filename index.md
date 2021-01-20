@@ -27,3 +27,4 @@
 1. [HEROKU](https://jasondormier.github.io/reading-notes/read-05)
 1. [Node, Express, and API's](https://jasondormier.github.io/reading-notes/read-06)
 1. [API's](https://jasondormier.github.io/reading-notes/read-07)
+1. [SQL](https://jasondormier.github.io/reading-notes/read-08)
