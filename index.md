@@ -29,3 +29,4 @@
 1. [API's](https://jasondormier.github.io/reading-notes/read-07)
 1. [SQL](https://jasondormier.github.io/reading-notes/read-08)
 1. [Refactoring](https://jasondormier.github.io/reading-notes/read-09)
+1. [The Call Stack](https://jasondormier.github.io/reading-notes/read-10)
