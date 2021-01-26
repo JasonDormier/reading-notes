@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EJS"
-permalink: /read-09
+permalink: /read-11
 ---
 Jason D
 

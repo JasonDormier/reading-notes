@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Node, Express, and API's"
-permalink: /read-05
+permalink: /read-06
 ---
 Jason D
 

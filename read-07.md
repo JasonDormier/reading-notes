@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "API's"
-permalink: /read-06
+permalink: /read-07
 ---
 Jason D
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Call Stack"
-permalink: /read-09
+permalink: /read-10
 ---
 Jason D
 
