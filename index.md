@@ -33,3 +33,4 @@
 1. [EJS](https://jasondormier.github.io/reading-notes/read-11)
 1. [EJS Partials](https://jasondormier.github.io/reading-notes/read-12)
 1. [Sending Form Data](https://jasondormier.github.io/reading-notes/read-13)
+1. [DB Normalization](https://jasondormier.github.io/reading-notes/read-14)
