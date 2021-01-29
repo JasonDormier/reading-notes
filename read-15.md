@@ -4,7 +4,7 @@ title: "Diversity and Inclusion"
 permalink: /read-14
 ---
 
-* Software and Tech companoes are heavily male and white dominated.
+* Software and Tech companies are heavily male and white-dominated.
 
 * Diversity efforts are most successful when they’re driven by a commitment from company leaders.
 
