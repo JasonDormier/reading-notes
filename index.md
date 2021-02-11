@@ -36,4 +36,5 @@
 1. [DB Normalization](https://jasondormier.github.io/reading-notes/read-14)
 1. [Diversity and Inclusion](https://jasondormier.github.io/reading-notes/read-15)
 
+### Javascript 401 - Advanced Software Development
 
