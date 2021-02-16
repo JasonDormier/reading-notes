@@ -1,8 +1,8 @@
 ###### Notes and insights from reading and course work for 201,301, and 401 Code Fellows software development course work.
 
 ### **Table of Contents**
-### Javascript 201
 
+### Javascript 201
 1. [Objects, Elements, and Properties of HTML for Javascript manipulation](https://jasondormier.github.io/reading-notes/class-01)
 1. [Reading 2 Javascript Notes](https://jasondormier.github.io/reading-notes/class-02)
 1. [Loops and Arrrays](https://jasondormier.github.io/reading-notes/class-03)
@@ -38,4 +38,5 @@
 
 ### Javascript 401 - Advanced Software Development
 1. [Node Ecosystem, TDD, CI/CD](https://jasondormier.github.io/reading-notes/read-class-01)
+1. [Express](https://jasondormier.github.io/reading-notes/read-class-02)
 
