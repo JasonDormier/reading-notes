@@ -45,4 +45,3 @@ permalink: /read-class-02
 ##### WRRC
   * Web Service Response Cycle - describes the interaction paths for an app between the client, server, API’s, database, or any other interaction that happens.
  
-
