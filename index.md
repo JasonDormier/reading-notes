@@ -37,4 +37,5 @@
 1. [Diversity and Inclusion](https://jasondormier.github.io/reading-notes/read-15)
 
 ### Javascript 401 - Advanced Software Development
+1. [Node Ecosystem, TDD, CI/CD](https://jasondormier.github.io/reading-notes/read-class-01)
 
