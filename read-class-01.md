@@ -30,7 +30,7 @@ permalink: /read-class-01
       );
   ```
   * Now lets try it using ES6 promises 
-    ```javascript
+ ```javascript
     async function getDomain(request, response){
       const domainUrl = await superagent.get(`https://api.domainsdb.info/v1/domains/search?&limit=5&country=us&domain=keyword`);
       console.log(domainUrl);
