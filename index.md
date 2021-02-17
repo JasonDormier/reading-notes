@@ -39,3 +39,4 @@
 ### Javascript 401 - Advanced Software Development
 1. [Node Ecosystem, TDD, CI/CD](https://jasondormier.github.io/reading-notes/read-class-01)
 1. [Express](https://jasondormier.github.io/reading-notes/read-class-02)
+1. [Express REST API](https://jasondormier.github.io/reading-notes/read-class-03)
