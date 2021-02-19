@@ -41,3 +41,4 @@
 1. [Express](https://jasondormier.github.io/reading-notes/read-class-02)
 1. [Express REST API](https://jasondormier.github.io/reading-notes/read-class-03)
 1. [Data Modeling](https://jasondormier.github.io/reading-notes/read-class-04)
+1. [Linked Lists](https://jasondormier.github.io/reading-notes/read-class-05)
