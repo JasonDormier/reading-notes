@@ -43,3 +43,4 @@
 1. [Data Modeling](https://jasondormier.github.io/reading-notes/read-class-04)
 1. [Linked Lists](https://jasondormier.github.io/reading-notes/read-class-05)
 1. [Authentication](https://jasondormier.github.io/reading-notes/read-class-06)
+1. [Bearer Authorization](https://jasondormier.github.io/reading-notes/read-class-07)
