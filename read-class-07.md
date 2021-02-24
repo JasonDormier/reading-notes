@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bearer Authorization"
-permalink: /read-class-06
+permalink: /read-class-07
 ---
 ##### Write the following steps in the correct order:
 * Register your application to get a client_id and client_secret
