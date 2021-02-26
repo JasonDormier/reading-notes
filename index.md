@@ -45,3 +45,4 @@
 1. [Authentication](https://jasondormier.github.io/reading-notes/read-class-06)
 1. [Bearer Authorization](https://jasondormier.github.io/reading-notes/read-class-07)
 1. [Access Control](https://jasondormier.github.io/reading-notes/read-class-08)
+1. [Stacks and Queues](https://jasondormier.github.io/reading-notes/read-class-09)
