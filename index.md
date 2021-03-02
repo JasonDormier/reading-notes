@@ -47,3 +47,4 @@
 1. [Access Control](https://jasondormier.github.io/reading-notes/read-class-08)
 1. [Stacks and Queues](https://jasondormier.github.io/reading-notes/read-class-09)
 1. [Event Driven Applications](https://jasondormier.github.io/reading-notes/read-class-10)
+1. [Socket.io](https://jasondormier.github.io/reading-notes/read-class-11)
