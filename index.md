@@ -48,3 +48,4 @@
 1. [Stacks and Queues](https://jasondormier.github.io/reading-notes/read-class-09)
 1. [Event Driven Applications](https://jasondormier.github.io/reading-notes/read-class-10)
 1. [Socket.io](https://jasondormier.github.io/reading-notes/read-class-11)
+1. [Message Queues](https://jasondormier.github.io/reading-notes/read-class-12)
