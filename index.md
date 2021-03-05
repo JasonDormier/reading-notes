@@ -49,3 +49,4 @@
 1. [Event Driven Applications](https://jasondormier.github.io/reading-notes/read-class-10)
 1. [Socket.io](https://jasondormier.github.io/reading-notes/read-class-11)
 1. [Message Queues](https://jasondormier.github.io/reading-notes/read-class-12)
+1. [Event Driven Architecture](https://jasondormier.github.io/reading-notes/read-class-13)

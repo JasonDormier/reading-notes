@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Socket.io"
+title: "Message Queues"
 permalink: /read-class-12
 ---
 
@@ -21,7 +21,6 @@ permalink: /read-class-12
  
 ##### How can we mitigate this?
 * making sure you have handlers installed and make sure they are handling those events properly
- 
  
 ##### Socket
 * the endpoint of a two-way communication
@@ -49,4 +48,5 @@ permalink: /read-class-12
  
 ##### Packets
 * is a formatted chunk of data sent over a network.
+
 
