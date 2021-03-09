@@ -52,3 +52,4 @@
 1. [Event Driven Architecture](https://jasondormier.github.io/reading-notes/read-class-13)
 1. [Trees](https://jasondormier.github.io/reading-notes/read-class-14)
 1. [AWS Servers](https://jasondormier.github.io/reading-notes/read-class-15)
+1. [AWS: S3 and Lambda](https://jasondormier.github.io/reading-notes/read-class-16)
