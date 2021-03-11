@@ -18,7 +18,7 @@ Jason D
 ##### How do you test an event driven system?
 * Unit tests, which will test individual parts of the system
 
-###Vocabulary Terms
+### Vocabulary Terms
 
 ##### Server Instances
 * General purpose - instances provide a balance of compute, memory and networking resources, and can be used for a variety of diverse workloads. These instances are ideal for applications that use these resources in equal proportions such as web servers and code repositories. 

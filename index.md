@@ -54,3 +54,4 @@
 1. [AWS Servers](https://jasondormier.github.io/reading-notes/read-class-15)
 1. [AWS: S3 and Lambda](https://jasondormier.github.io/reading-notes/read-class-16)
 1. [AWS: API, Dynamo and Lambda](https://jasondormier.github.io/reading-notes/read-class-17)
+1. [AWS Events](https://jasondormier.github.io/reading-notes/read-class-18)
