@@ -56,4 +56,4 @@
 1. [AWS: API, Dynamo and Lambda](https://jasondormier.github.io/reading-notes/read-class-17)
 1. [AWS Events](https://jasondormier.github.io/reading-notes/read-class-18)
 1. [Component Based UI](https://jasondormier.github.io/reading-notes/read-class-19)
-
+1. [Props and State](https://jasondormier.github.io/reading-notes/read-class-20)
