@@ -57,3 +57,4 @@
 1. [AWS Events](https://jasondormier.github.io/reading-notes/read-class-18)
 1. [Component Based UI](https://jasondormier.github.io/reading-notes/read-class-19)
 1. [Props and State](https://jasondormier.github.io/reading-notes/read-class-20)
+1. [Props and State](https://jasondormier.github.io/reading-notes/read-class-21)
