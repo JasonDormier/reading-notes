@@ -58,3 +58,4 @@
 1. [Component Based UI](https://jasondormier.github.io/reading-notes/read-class-19)
 1. [Props and State](https://jasondormier.github.io/reading-notes/read-class-20)
 1. [Props and State](https://jasondormier.github.io/reading-notes/read-class-21)
+1. [Routing](https://jasondormier.github.io/reading-notes/read-class-22)
