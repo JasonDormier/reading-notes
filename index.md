@@ -59,3 +59,4 @@
 1. [Props and State](https://jasondormier.github.io/reading-notes/read-class-20)
 1. [Props and State](https://jasondormier.github.io/reading-notes/read-class-21)
 1. [Routing](https://jasondormier.github.io/reading-notes/read-class-22)
+1. [Hashtables](https://jasondormier.github.io/reading-notes/read-class-23)
