@@ -1,26 +1,62 @@
 ---
 layout: post
-title: "Context API"
-permalink: /class-25
+title: "Hashtables"
+permalink: /class-23
 ---
 Jason D
 
-##### Describe use cases for useMemo() and useReducer()
-* useMemo returns a memoized value, the result of that function call. useReducer() is primitive and you can use useReducer for everything you can do with useState. Reducer is so powerful that it can apply for various use cases.
+##### What does a component’s lifecycle refer to?
+ A series of methods that are invoked in different stages of the component’s existence.
+* Inititalization
+* Mounting
+* Updating
+* Unmount((ing
 
-##### Why do custom hooks need the use prefix?
-* They should start with use so you can tell at a glance that the rules of hooks applies to it
+##### Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect()
+* In order to keep things tidy and wrap up any process that is using resources that it shouldn't once the useEffect() has compeleted
 
-##### What do custom hooks usually do?
-* They allow you to extract and share logic that was not possible using classes
+##### Why are functional components preferred over class components?
+* They are easier to use when you get the hang of them, cleaner and easier to read. They are also less lines of code
 
-##### Using any list of custom hooks, research and name one that you think will be useful in your applications
-* useEffects() Data fetching, setting up a subscription, and manually changing the DOM in React components are all examples of side effects. Whether or not you’re used to calling these operations “side effects” (or just “effects”), you’ve likely performed them in your components before.
+##### What is wrong with the following code?
+* The only thing I can think of is pushing the div into an array
 
-##### Describe how a hook that fetches API data might work
-* to set the data in the local state of the component with the state hook's update function. ... Because we are setting the state after every data fetch, the component updates and the effect runs again. It fetches the data again and again
 
-##### Vocabulary Terms
+```javascript
+import React, {useState, useEffect} from 'react';
 
-##### reducer
-* seReducer() is primitive and you can use useReducer for everything you can do with useState. Reducer is so powerful that it can apply for various use cases.
+function MyComponent(props) {
+  const [count, setCount] = useState(0);
+
+  function changeCount(e) {
+    setCount(e.target.value);
+  }
+
+  let renderedItems = []
+
+  for (let i = 0; i < count; i++) {
+    useEffect( () => {
+      console.log('component mount/update');
+    }, [count]);
+
+    renderedItems.push(<div key={i}>Item</div>);
+  }
+
+  return (
+      <div>
+     <input type='number' value={count} onChange={changeCount}/>
+      {renderedItems}
+    </div>
+    );
+}
+```
+### Vocabulary Terms
+
+##### state hook
+* useState() which operates simalar to this.setState() in class.
+
+##### effect hook
+* useEffect() which reaplaces componentDidMount, componentDidUpdate, and componentWillUnmount
+
+##### reducer hook
+* An alternative to useState. Accepts a reducer of type (state, action) => newState, and returns the current state paired with a dispatch method. (If you’re familiar with Redux, you already know how this works.)

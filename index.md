@@ -60,5 +60,6 @@
 1. [Props and State](https://jasondormier.github.io/reading-notes/read-class-21)
 1. [Routing](https://jasondormier.github.io/reading-notes/read-class-22)
 1. [Hashtables](https://jasondormier.github.io/reading-notes/read-class-23)
-1. [Custom Hooks](https://jasondormier.github.io/reading-notes/read-class-24)
-1. [Context API](https://jasondormier.github.io/reading-notes/read-class-25)
+1. [Hooks API](https://jasondormier.github.io/reading-notes/read-class-24)
+1. [Custom Hooks](https://jasondormier.github.io/reading-notes/read-class-25)
+1. [Context API](https://jasondormier.github.io/reading-notes/read-class-26)

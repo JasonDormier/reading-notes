@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Hooks"
+title: "Hooks API"
 permalink: /class-24
 ---
 Jason D
