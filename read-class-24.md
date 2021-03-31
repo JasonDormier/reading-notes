@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hashtables"
-permalink: /class-23
+title: "Custom Hooks"
+permalink: /class-24
 ---
 Jason D
 
