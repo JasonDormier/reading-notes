@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Context API"
-permalink: /class-25
+permalink: /class-26
 ---
 Jason D
 
