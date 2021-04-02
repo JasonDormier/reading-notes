@@ -63,3 +63,5 @@
 1. [Hooks API](https://jasondormier.github.io/reading-notes/read-class-24)
 1. [Custom Hooks](https://jasondormier.github.io/reading-notes/read-class-25)
 1. [Context API](https://jasondormier.github.io/reading-notes/read-class-26)
+1. [Login and Auth](https://jasondormier.github.io/reading-notes/read-class-27)
+1. [Graphs](https://jasondormier.github.io/reading-notes/read-class-28)
