@@ -68,3 +68,4 @@
 1. [Application State with Redux](https://jasondormier.github.io/reading-notes/read-class-29)
 1. [Redux - Combined Reducers](https://jasondormier.github.io/reading-notes/read-class-30)
 1. [Redux - Asynchronous Actions](https://jasondormier.github.io/reading-notes/read-class-31)
+1. [Redux - Additional Topics](https://jasondormier.github.io/reading-notes/read-class-32)
