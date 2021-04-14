@@ -69,3 +69,5 @@
 1. [Redux - Combined Reducers](https://jasondormier.github.io/reading-notes/read-class-30)
 1. [Redux - Asynchronous Actions](https://jasondormier.github.io/reading-notes/read-class-31)
 1. [Redux - Additional Topics](https://jasondormier.github.io/reading-notes/read-class-32)
+1. [React Native](https://jasondormier.github.io/reading-notes/read-class-33)
+1. [Ethics](https://jasondormier.github.io/reading-notes/read-class-34)
